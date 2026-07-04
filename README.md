@@ -82,6 +82,3 @@ python run_analysis.py
 - The grouped split is included because the data contains duplicated rows and duplicated domains, which can make random-split results optimistic.
 - The report and notebook focus on critical evaluation of the selected source, not only reproduction.
 
-## Submission
-
-The course requires submission through a public GitHub repository. Upload all files in this folder to a public GitHub repository and send the repository link to the examiner email address provided by the course staff.
