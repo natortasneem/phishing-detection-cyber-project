@@ -27,7 +27,7 @@ data/5.urldata.csv
 ## Files
 
 ```text
-phishing_detection_report.pdf        # Final report, ready for submission
+phishing_detection_report.pdf        # Final report
 phishing_detection_project.ipynb     # Complete executable notebook
 README.md                            # Repository documentation
 requirements.txt                     # Python dependencies
